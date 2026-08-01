@@ -3,7 +3,7 @@
 ### Application Tested: Parabank
 ### Test Scope
 ### Test Strategy
-### Tools Used: IntelliJ IDE, Selenium Automation Framework 
+### Tools Used: IntelliJ IDE, Selenium Automation Framework, Postman 
 ### Test Cases
 ### Bug Reports
 ### Automation
