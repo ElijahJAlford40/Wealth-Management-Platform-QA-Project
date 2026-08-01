@@ -1,6 +1,6 @@
-# Wealth-Management-Platform-QA-Project
-## Project Overview :
-### Application Tested : Parabank
+# Wealth Management Platform Project 01
+## Project Overview:
+### Application Tested: Parabank
 ### Test Scope
 ### Test Strategy
 ### Tools Used
