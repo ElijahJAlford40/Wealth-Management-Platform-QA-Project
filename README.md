@@ -4,25 +4,41 @@
 *This project demonstrates my ability to perform both automated and manual quality assurance testing for a financial services platform. I replicated the duties of a QA Engineer by organizing, performing, documenting, and automating software testing tasks throughout the Software Testing Life Cycle (STLC), using the Parabank Demo Application as the system under test. This portfolio shows hands-on expertise with industry-standard QA procedures, instruments, and best practices that are frequently employed by wealth management and financial technology companies.* 
 ***
 ### Application Tested: Parabank
-
+### Project Goals: 
+What skills do I want to show?
+*
+*
+*
+*
+*
+What would the desired company (AssetMark) expect? 
+*
+*
+What deliverables am I creating? 
+*
+*
+*
 ### Test Scope:
 Accounts
-
+ ⋅⋅⋅⋅1.
+ ⋅⋅⋅⋅2.
+⋅⋅⋅⋅3.
 Authentication
-
+⋅⋅⋅⋅1.
 Profile
-
+⋅⋅⋅⋅1.
  Transfers 
- 
+ ⋅⋅⋅⋅1.
  Security 
- 
+ ⋅⋅⋅⋅1.
  Navigation 
- 
+ ⋅⋅⋅⋅1.
  Payments 
- 
+ ⋅⋅⋅⋅1.
  History 
- 
+ ⋅⋅⋅⋅1.
  Reports 
+ ⋅⋅⋅⋅1.
  ***
 ### Test Strategy:
 ### Tools Used: IntelliJ IDE, Selenium Automation Framework, Postman, WebDriver, POM, TestNG, Maven, SQL, Jira, Git
