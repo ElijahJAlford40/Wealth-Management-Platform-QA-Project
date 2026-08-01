@@ -10,20 +10,20 @@ What skills do I want to show?
 -
 -
 What would the desired company (AssetMark) expect? 
-*
-*
-What deliverables am I creating? 
-*
-*
-*
+-
+-
+What deliverables am I creating?
+-
+-
+-
 ### Test Scope:
 Accounts
- - 1. 
-   2. 
+ - 1.
+ - 2. 
  
 Authentication
  - 1.
-   2. 
+ - 2. 
 Profile
  - 1.
  - 2.
