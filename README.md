@@ -10,11 +10,17 @@ Accounts
 Authentication
 
 Profile
+
  Transfers 
+ 
  Security 
+ 
  Navigation 
+ 
  Payments 
+ 
  History 
+ 
  Reports 
 ### Test Strategy:
 ### Tools Used: IntelliJ IDE, Selenium Automation Framework, Postman, WebDriver, POM, TestNG, Maven, SQL, Jira, Git
