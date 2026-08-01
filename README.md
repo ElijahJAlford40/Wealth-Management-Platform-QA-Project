@@ -6,11 +6,9 @@
 ### Application Tested: Parabank
 ### Project Goals: 
 What skills do I want to show?
-*
-*
-*
-*
-*
+-
+-
+-
 What would the desired company (AssetMark) expect? 
 *
 *
@@ -20,25 +18,33 @@ What deliverables am I creating?
 *
 ### Test Scope:
 Accounts
- ⋅⋅⋅⋅1.
- ⋅⋅⋅⋅2.
-⋅⋅⋅⋅3.
+ - 1. 
+   2. 
+ 
 Authentication
-⋅⋅⋅⋅1.
+ - 1.
+   2. 
 Profile
-⋅⋅⋅⋅1.
+ - 1.
+ - 2.
  Transfers 
- ⋅⋅⋅⋅1.
+ - 1.
+ - 2.
  Security 
- ⋅⋅⋅⋅1.
+ - 1.
+ - 2.
  Navigation 
- ⋅⋅⋅⋅1.
+ - 1.
+ - 2.
  Payments 
- ⋅⋅⋅⋅1.
+ - 1.
+ - 2.
  History 
- ⋅⋅⋅⋅1.
+ - 1.
+ - 2.
  Reports 
- ⋅⋅⋅⋅1.
+ - 1.
+ - 2.
  ***
 ### Test Strategy:
 ### Tools Used: IntelliJ IDE, Selenium Automation Framework, Postman, WebDriver, POM, TestNG, Maven, SQL, Jira, Git
