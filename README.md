@@ -3,7 +3,7 @@
 ### Application Tested: Parabank
 ### Test Scope
 ### Test Strategy
-### Tools Used: IntelliJ IDE, Selenium Automation Framework, Postman, WebDriver, POM, TestNG, Maven
+### Tools Used: IntelliJ IDE, Selenium Automation Framework, Postman, WebDriver, POM, TestNG, Maven, SQL, Jira, Git
 ### Test Cases
 ### Bug Reports
 ### Automation
