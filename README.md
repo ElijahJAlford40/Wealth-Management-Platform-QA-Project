@@ -4,9 +4,11 @@
 *This project demonstrates my ability to perform both automated and manual quality assurance testing for a financial services platform. I replicated the duties of a QA Engineer by organizing, performing, documenting, and automating software testing tasks throughout the Software Testing Life Cycle (STLC), using the Parabank Demo Application as the system under test. This portfolio shows hands-on expertise with industry-standard QA procedures, instruments, and best practices that are frequently employed by wealth management and financial technology companies.* 
 ***
 ### Application Tested: Parabank
-### Test Scope: --
-Accounts 
+### Test Scope:
+Accounts
+
 Authentication
+
 Profile
  Transfers 
  Security 
