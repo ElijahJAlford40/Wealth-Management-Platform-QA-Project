@@ -17,17 +17,25 @@ This portfolio demonstrates hands-on experience with industry-standard QA proces
 
 ### What Skills Do I Want to Demonstrate?
 
-- 
-- 
-- 
-- 
+- Execute manual and automated tests
+- Report defects 
+- Demonstrate understanding of SDLC/STLC 
+- Use OOP
+- Use Git
+- Use Java/JavaScript
+- Create/Update Automation scripts
+- Effectively communicate test results
+- Understand CI/CD
+
 
 ### What QA Deliverables Am I Creating?
 
-- 
-- 
-- 
-- 
+- Test planning 
+- Test case design
+- Automation 
+- Test reporting
+- Regression testing
+- Defect management
 
 ---
 
