@@ -5,9 +5,9 @@
 
 ##  Project Overview
 
-This project demonstrates my ability to perform both **manual and automated quality assurance testing** for a financial services platform.
+This project demonstrates my ability to perform both manual and automated quality assurance testing for a financial services platform.
 
-I replicated the responsibilities of a QA Engineer by organizing, performing, documenting, and automating software testing activities throughout the **Software Testing Life Cycle (STLC)**, using the **Parabank Demo Application** as the system under test.
+I replicated the responsibilities of a QA Engineer by organizing, performing, documenting, and automating software testing activities throughout the Software Testing Life Cycle (STLC), using the Parabank Demo Application as the system under test.
 
 This portfolio demonstrates hands-on experience with industry-standard QA processes, tools, and best practices commonly used by financial services, fintech, and wealth management organizations.
 
