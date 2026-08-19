@@ -150,7 +150,7 @@ Test cases will be designed using:
 
 ---
 
-## 💻 Test Environment
+## Test Environment
 
 | Component | Environment |
 |---|---|
