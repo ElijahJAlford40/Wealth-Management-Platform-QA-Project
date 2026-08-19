@@ -22,13 +22,6 @@ This portfolio demonstrates hands-on experience with industry-standard QA proces
 - 
 - 
 
-### What Would a Company Like AssetMark Expect?
-
-- 
-- 
-- 
-- 
-
 ### What QA Deliverables Am I Creating?
 
 - 
