@@ -48,7 +48,7 @@ The project focuses on applying QA processes, testing techniques, and automation
 
 **Application Type:** Web Application
 
-**System Under Test (SUT):** Parabank
+**System Under Test :** Parabank
 
 ---
 
