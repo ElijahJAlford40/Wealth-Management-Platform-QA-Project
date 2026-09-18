@@ -214,6 +214,7 @@ Test cases are designed using:
 ## Manual Testing
 
 Manual testing was performed across core customer-facing workflows within the Parabank Demo Application.
+**Manual Test Case Excel Sheet:** [View Manual Test Cases](https://1drv.ms/x/c/4952211673099ea6/IQDhaHIzQX_-TZvEvOrqC5YIAQB7i5-XGbq_FY8VKLgVj2A?e=upNubM)
 
 ### Manual Test Coverage
 
