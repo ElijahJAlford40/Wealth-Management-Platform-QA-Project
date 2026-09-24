@@ -1,5 +1,5 @@
 
-# Wealth Management Platform QA Project 01
+# Wealth Management Platform Project 
 ### Using the Parabank Demo Application
 
 ---
