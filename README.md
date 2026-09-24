@@ -173,7 +173,6 @@ Test cases are designed using:
 | Build Tool | Maven |
 | API Tool | Postman |
 | Database | SQL |
-| Defect Tracking | Jira |
 | Version Control | Git / GitHub |
 
 ---
@@ -198,10 +197,6 @@ Test cases are designed using:
 ### Database Testing
 
 - SQL
-
-### Defect Management
-
-- Jira
 
 ### Development & Version Control
 
